@@ -7,6 +7,13 @@ The main idea of Carla is to have the environment (server) and then agents (clie
 
 With Carla, we get a car (obviously), an environment to drive that car in, and then we have a bunch of sensors that we can place upon the car to emulate real-life self-driving car sensors. Things like LIDAR, cameras, accelerometers, and so on. [Python Programming Tutorials, pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/.]
 
+## Train
+### collect training data
+python trains.py
+
+### fit model
+python run.ipyth
+
 ## The Model
 
 ## Training Results
