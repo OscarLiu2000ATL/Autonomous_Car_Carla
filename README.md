@@ -24,9 +24,8 @@ python tests.py
 <div class="center" align="center">
   <img src="./2020-05-08 (2).png" width = "450"/>
 </div
-  
-## Training Graph
 
+## Training Graph
 <div class="center" align="center">
   <img src="./2020-05-08 (3).png" width = "800"/>
 </div>
