@@ -17,10 +17,10 @@ python trains.py
 run.ipynb
 
 ## The Model
-<img src="./2020-05-08 (2).png"/ width = "200" height="400">
+<img src="./2020-05-08 (2).png" width = "200" height="400"/>
 
 ## Training Results
-<img src="./2020-05-08 (3).png"/ width = "200" height="400">
+<img src="./2020-05-08 (3).png" width = "200" height="400"/>
 
 ## Youtube Videos (Click To Open)
 [![click](https://img.youtube.com/vi/hUkLMYN1Peo/0.jpg)](https://www.youtube.com/watch?v=hUkLMYN1Peo)
