@@ -22,14 +22,12 @@ python tests.py
 
 ## The Model
 <div class="center" align="center">
-  <img src="./2020-05-08 (2).png" width = "400"/>
+  <img src="./2020-05-08 (2).png" width = "500"/>
 </div>
-
 ## Training Graph
 <div class="center" align="center">
   <img src="./2020-05-08 (3).png" width = "800"/>
 </div>
-
 ## Final Results (Click To Open)
 [![click](https://img.youtube.com/vi/hUkLMYN1Peo/0.jpg)](https://www.youtube.com/watch?v=hUkLMYN1Peo)
 [![click_2](https://img.youtube.com/vi/1ad0i-BUCgY/0.jpg)](https://www.youtube.com/watch?v=1ad0i-BUCgY)
