@@ -20,7 +20,7 @@ run.ipynb
 
 ## The Model
 <div class="center" align="center">
-  <img src="./2020-05-08 (2).png" width = "400" height="420"/>
+  <img src="./2020-05-08 (2).png" width = "431" height="565"/>
 </div>
 
 ## Training Graph
