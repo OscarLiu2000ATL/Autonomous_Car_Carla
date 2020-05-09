@@ -17,7 +17,7 @@ python trains.py
 ### fit model
 run.ipynb
 
-##Test
+## Test
 python tests.py
 
 ## The Model
