@@ -25,7 +25,7 @@ run.ipynb
 
 ## Training Graph
 <div class="center" align="center">
-  <img src="./2020-05-08 (3).png" width = "528" height="296"/>
+  <img src="./2020-05-08 (3).png" width = "577" height="313"/>
 </div>
 
 ## Final Results (Click To Open)
