@@ -2,7 +2,9 @@
 The goal of this project is to train a Neural Network to drive in the driving simulation. What distinguishes my approach to that of similar projects is that my model can predict brake parameters in addition to steer and throttle parameters. The car would hit the brake depending on the obstacles and traffic light. This requires the Convolution Model to learn to extract not only road borders but also traffic lights' colors and road signs.
 
 
-<img src="./1_5.gif"/>
+<div class="center" align="center">
+  <img src="./1_5.gif"/>
+</div>
 
 ## What is Carla
 The main idea of Carla is to have the environment (server) and then agents (clients). This server/client architecture means that we can of course run both the server and client locally on the same machines, but we could also run the environement (server) on one machine and multiple clients on multiple other machines, which is pretty cool.
