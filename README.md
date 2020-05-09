@@ -23,7 +23,7 @@ python tests.py
 ## The Model
 <div class="center" align="center">
   <img src="./2020-05-08 (2).png" width = "450"/>
-</div
+</div>
 
 ## Training Graph
 <div class="center" align="center">
