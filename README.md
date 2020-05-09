@@ -1,5 +1,7 @@
 # Autonomous_Car_Carla
-The goal of this project is to train a Neural Network to drive in the driving simulation.
+The goal of this project is to train a Neural Network to drive in the driving simulation. What dinguish my approach to that of similiar projects is that my model can predict brake in addition to steer and throttle. The car would brake depending on obstables and traffic light. This requires the Convolution model to learn to extract not only road boards, but also traffic light colors and road signs.
+
+
 <img src="./1_5.gif"/>
 
 ## What is Carla
