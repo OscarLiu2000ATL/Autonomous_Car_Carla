@@ -12,7 +12,7 @@ With Carla, we get a car (obviously), an environment to drive that car in, and t
 python trains.py
 
 ### fit model
-python run.ipyth
+run.ipynb
 
 ## The Model
 
