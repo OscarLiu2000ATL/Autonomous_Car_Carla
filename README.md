@@ -14,9 +14,11 @@ With Carla, we get a car (obviously), an environment to drive that car in, and t
 ## Train
 ### collect training data
 python trains.py
-
 ### fit model
 run.ipynb
+
+##Test
+python tests.py
 
 ## The Model
 <div class="center" align="center">
